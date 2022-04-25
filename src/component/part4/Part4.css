@@ -1,0 +1,30 @@
+.divp4{
+    margin-top: 40px;
+    background-image: url('../../assets/backgroundimg.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+
+}
+#imgp4{
+    margin-left: 200px;
+    height: 753px;
+}
+.div2p4{
+    margin-top: 200px;
+}
+#h1p4{
+    color: rgba(3, 3, 77, 0.893);
+    font-size: 70px;
+}
+#hrp4{
+    width: 500px;
+    border: 5px solid red;
+}
+#divp6{
+    background-color: blue;
+}
+.img{
+    height: 200px;
+    width: 200px;
+}
