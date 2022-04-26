@@ -15,13 +15,15 @@
     font-size: 60px;
 }
 #first2{
+    text-align: left;
     padding-top: 136px;
-    padding-left: 188px;
+    padding-left: 150px;
 
 }
 #htag{
     font-size: 130px;
     color: white;
+    padding-left: -20px;
 
 }
 #hr{
@@ -31,6 +33,6 @@
 .icon{
     color: white;
     font-size: 50px;
-    padding-left: 50px;
+   padding-right: 50px;
     padding-top: 30px;
 }
